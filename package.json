@@ -1,0 +1,28 @@
+{
+  "name": "@gliech/semantic-release-config-github-npm",
+  "version": "0.0.0-development",
+  "description": "semantic-release shareable configuration for github projects that publish npm packages",
+  "repository": "github:gliech/semantic-release-config-github-npm",
+  "author": "gliech",
+  "license": "BSD-4-Clause",
+  "main": "index.json",
+  "files": [
+    "index.json"
+  ],
+  "keywords": [],
+  "dependencies": {
+    "@semantic-release/changelog": "5",
+    "@semantic-release/git": "9"
+  },
+  "peerDependencies": {
+    "semantic-release": "17"
+  },
+  "devDependencies": {
+    "@gliech/semantic-release-config-base": "^1.0.1",
+    "@gliech/semantic-release-config-github-npm": "file:./",
+    "semantic-release": "17"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
