@@ -7,7 +7,8 @@
   "license": "BSD-4-Clause",
   "main": "index.json",
   "files": [
-    "index.json"
+    "index.json",
+    "CHANGELOG.md"
   ],
   "keywords": [],
   "dependencies": {
