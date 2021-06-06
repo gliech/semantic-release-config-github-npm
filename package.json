@@ -20,7 +20,6 @@
   },
   "devDependencies": {
     "@gliech/semantic-release-config-base": "^1.0.1",
-    "@gliech/semantic-release-config-github-npm": "file:./",
     "semantic-release": "17"
   },
   "publishConfig": {
