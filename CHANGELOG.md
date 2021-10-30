@@ -1,3 +1,15 @@
+## [1.0.2](https://github.com/gliech/semantic-release-config-github-npm/compare/v1.0.1...v1.0.2) (2021-10-30)
+
+
+### Documentation
+
+* simple README ([43dcb2c](https://github.com/gliech/semantic-release-config-github-npm/commit/43dcb2c9a631cafc0644f3d056556004db07d8ac))
+
+
+### Dependency Updates
+
+* allow usage with semrel 18 ([f7348e6](https://github.com/gliech/semantic-release-config-github-npm/commit/f7348e6931461f84e9655a66f903ae649c4066b7))
+
 ## [1.0.1](https://github.com/gliech/semantic-release-config-github-npm/compare/v1.0.0...v1.0.1) (2021-06-06)
 
 
