@@ -1,3 +1,10 @@
+# [1.1.0-alpha.2](https://github.com/gliech/semantic-release-config-github-npm/compare/v1.1.0-alpha.1...v1.1.0-alpha.2) (2023-07-08)
+
+
+### Features
+
+* merge with config-base in module ([898da9b](https://github.com/gliech/semantic-release-config-github-npm/commit/898da9bf241c3bb82c69f2c618761fc1f8c7caef))
+
 # [1.1.0-alpha.1](https://github.com/gliech/semantic-release-config-github-npm/compare/v1.0.2...v1.1.0-alpha.1) (2023-07-08)
 
 
