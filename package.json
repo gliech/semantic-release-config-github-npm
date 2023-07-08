@@ -12,15 +12,9 @@
   ],
   "keywords": [],
   "dependencies": {
-    "@semantic-release/changelog": ">=5.0.0 <7.0.0",
-    "@semantic-release/git": ">=9.0.0 <11.0.0"
-  },
-  "peerDependencies": {
-    "semantic-release": ">=17.2.3 <22.0.0"
-  },
-  "devDependencies": {
     "@gliech/semantic-release-config-base": "1.x",
-    "semantic-release": ">=17.2.3"
+    "@semantic-release/changelog": "6.x",
+    "@semantic-release/git": "10.x"
   },
   "publishConfig": {
     "access": "public"
