@@ -1,3 +1,16 @@
+## [1.0.3](https://github.com/gliech/semantic-release-config-github-npm/compare/v1.0.2...v1.0.3) (2023-07-08)
+
+
+### Bug Fixes
+
+* **deps:** widen dev-deps to allow co-development with base plugin ([4ce13cd](https://github.com/gliech/semantic-release-config-github-npm/commit/4ce13cdff22c76635a95cf9cba8bd896c5d98dd9))
+
+
+### Continuous Integration
+
+* **dependabot:** instruct to widen dependency ranges ([c86f737](https://github.com/gliech/semantic-release-config-github-npm/commit/c86f737a70e8547aab5e7b9c91034dfe6fb6e99d))
+* **gh-actions:** reusable workflow ([8046e48](https://github.com/gliech/semantic-release-config-github-npm/commit/8046e489f46ee12b6d5c2dba64d9ab13a7cbb0d8))
+
 ## [1.0.2](https://github.com/gliech/semantic-release-config-github-npm/compare/v1.0.1...v1.0.2) (2021-10-30)
 
 
