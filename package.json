@@ -5,14 +5,14 @@
   "repository": "github:gliech/semantic-release-config-github-npm",
   "author": "gliech",
   "license": "BSD-4-Clause",
-  "main": "index.json",
+  "main": "index.js",
   "files": [
-    "index.json",
+    "index.js",
     "CHANGELOG.md"
   ],
   "keywords": [],
   "dependencies": {
-    "@gliech/semantic-release-config-base": "1.x",
+    "@gliech/semantic-release-config-base": "1.1.0-alpha.1",
     "@semantic-release/changelog": "6.x",
     "@semantic-release/git": "10.x"
   },
