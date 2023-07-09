@@ -6,9 +6,43 @@
 
 A shareable semantic-release config for npm packages with code hosted on github.
 
-This shareable configuration is meant to be used in conjunction with
-[@gliech/semantic-release-config-base][2] which serves as the source for most
-changes to the default options for plugins used here.
+This shareable configuration uses [@gliech/semantic-release-config-base][2],
+which serves as the source for most changes to the default options for plugins
+included here.
+
+## Usage
+
+As this module and [@gliech/semantic-release-config-base][2] contain all
+neccessary modules as dependencies, all you need to do to use semantic-release
+is add just this module to your package.json
+
+```json
+{
+  ...
+  "devDependencies": {
+    "@gliech/semantic-release-config-github-npm": "^1.2.0"
+  },
+  "release": {
+    "extends": ["./index.js"]
+  }
+}
+```
+
+In addition this repository provides a reusable GitHub Actions workflow that you
+can use in your `.github/workflows`.
+
+```yaml
+---
+on:
+  push:
+name: main
+jobs:
+  release:
+    name: semantic release
+    uses: gliech/semantic-release-config-github-npm/.github/workflows/release.yml@v1
+    secrets:
+      NPM_TOKEN: ${{ secrets.NPM_TOKEN }}
+```
 
 ## License
 
