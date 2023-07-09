@@ -1,3 +1,15 @@
+## [1.2.1](https://github.com/gliech/semantic-release-config-github-npm/compare/v1.2.0...v1.2.1) (2023-07-09)
+
+
+### Documentation
+
+* **README:** usage section for new workflow ([69d3795](https://github.com/gliech/semantic-release-config-github-npm/commit/69d3795f504d9f4a63025b5d5d322907047bade7))
+
+
+### Dependency Updates
+
+* switch to stable channel of config-base ([3a00ccd](https://github.com/gliech/semantic-release-config-github-npm/commit/3a00ccdd9d4dc6c1fdce551ebbe4c53dfb38c18b))
+
 # [1.2.0](https://github.com/gliech/semantic-release-config-github-npm/compare/v1.1.0...v1.2.0) (2023-07-09)
 
 
