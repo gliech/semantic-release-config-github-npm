@@ -7,7 +7,13 @@ module.exports = {
       "@semantic-release/changelog",
       "@semantic-release/git",
       "@semantic-release/github",
-      "@semantic-release/npm"
+      "@semantic-release/npm",
+      [
+        "semantic-release-major-tag",
+        {
+          "customTags": ["v${major}", "v${major}.${minor}"]
+        }
+      ]
     ]
   }
 }
