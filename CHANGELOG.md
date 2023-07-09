@@ -1,3 +1,17 @@
+# [1.1.0](https://github.com/gliech/semantic-release-config-github-npm/compare/v1.0.3...v1.1.0) (2023-07-09)
+
+
+### Features
+
+* **deps:** move deps for shared plugins to config-base ([58dc73b](https://github.com/gliech/semantic-release-config-github-npm/commit/58dc73bebd8b7c7c9058e0119e6e0b9dfe03eb2b))
+* **deps:** use direct dependencies ([a5a70f5](https://github.com/gliech/semantic-release-config-github-npm/commit/a5a70f5a8905fdeb894d5180fe0471292b433b1a))
+* merge with config-base in module ([898da9b](https://github.com/gliech/semantic-release-config-github-npm/commit/898da9bf241c3bb82c69f2c618761fc1f8c7caef))
+
+
+### Continuous Integration
+
+* **style:** rename jobs/workflows to fit with how they are displayed on gh ([1a00445](https://github.com/gliech/semantic-release-config-github-npm/commit/1a0044581c88b244340223bd331ffbc41293db45))
+
 ## [1.0.3](https://github.com/gliech/semantic-release-config-github-npm/compare/v1.0.2...v1.0.3) (2023-07-08)
 
 
