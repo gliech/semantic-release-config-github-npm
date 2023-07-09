@@ -12,9 +12,7 @@
   ],
   "keywords": [],
   "dependencies": {
-    "@gliech/semantic-release-config-base": "1.1.0-alpha.1",
-    "@semantic-release/changelog": "6.x",
-    "@semantic-release/git": "10.x"
+    "@gliech/semantic-release-config-base": "1.1.0-alpha.3"
   },
   "publishConfig": {
     "access": "public"
