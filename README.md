@@ -13,7 +13,7 @@ included here.
 ## Usage
 
 As this module and [@gliech/semantic-release-config-base][2] contain all
-neccessary modules as dependencies, all you need to do to use semantic-release
+necessary modules as dependencies, all you need to do to use semantic-release
 is add just this module to your package.json
 
 ```json
