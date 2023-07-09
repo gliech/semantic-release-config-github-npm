@@ -1,4 +1,3 @@
 ---
 extends:
-  - "@gliech/semantic-release-config-base"
-  - "./index.json"
+  - "./index.js"
