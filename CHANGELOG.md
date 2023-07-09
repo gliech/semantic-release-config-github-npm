@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/gliech/semantic-release-config-github-npm/compare/v1.1.0...v1.2.0) (2023-07-09)
+
+
+### Features
+
+* dynamic major/minor version tags ([c7d5bf4](https://github.com/gliech/semantic-release-config-github-npm/commit/c7d5bf4c40b7f8b8ca0f4e716d964c2f703b08b2))
+
 # [1.1.0](https://github.com/gliech/semantic-release-config-github-npm/compare/v1.0.3...v1.1.0) (2023-07-09)
 
 
