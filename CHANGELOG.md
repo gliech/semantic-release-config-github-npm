@@ -1,3 +1,10 @@
+# [1.3.0](https://github.com/gliech/semantic-release-config-github-npm/compare/v1.2.1...v1.3.0) (2023-07-15)
+
+
+### Features
+
+* load replace plugin for release configs to use ([7ee9111](https://github.com/gliech/semantic-release-config-github-npm/commit/7ee91112946065b6ce0db4525e270de6d59bca17))
+
 ## [1.2.1](https://github.com/gliech/semantic-release-config-github-npm/compare/v1.2.0...v1.2.1) (2023-07-09)
 
 
