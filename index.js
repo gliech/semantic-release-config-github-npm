@@ -5,6 +5,7 @@ module.exports = {
       "@semantic-release/commit-analyzer",
       "@semantic-release/release-notes-generator",
       "@semantic-release/changelog",
+      "semantic-release-replace-plugin",
       "@semantic-release/git",
       "@semantic-release/github",
       "@semantic-release/npm",
@@ -15,5 +16,6 @@ module.exports = {
         }
       ]
     ]
-  }
+  },
+  "replacements": []
 }
