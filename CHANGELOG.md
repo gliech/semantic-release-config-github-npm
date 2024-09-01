@@ -1,3 +1,16 @@
+## [1.3.1](https://github.com/gliech/semantic-release-config-github-npm/compare/v1.3.0...v1.3.1) (2024-09-01)
+
+
+### Continuous Integration
+
+* **deps:** bump actions/checkout from 3 to 4 ([f46995c](https://github.com/gliech/semantic-release-config-github-npm/commit/f46995c071a5dcb642d63085f58e98568c3baf7a))
+* **fix:** pin node version to 21 ([7347618](https://github.com/gliech/semantic-release-config-github-npm/commit/7347618ac44217ff4faf2614d8fa1f9ac5b7c0c7))
+
+
+### Dependency Updates
+
+* bump semantic-release-replace-plugin from 1.2.6 to 1.2.7 ([06c197f](https://github.com/gliech/semantic-release-config-github-npm/commit/06c197f2924c8a13035830abf050b6a0ac67a3aa))
+
 # [1.3.0](https://github.com/gliech/semantic-release-config-github-npm/compare/v1.2.1...v1.3.0) (2023-07-15)
 
 
